@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#book-form {
+    margin-bottom: 20px;
+}
+
+.book-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+}
